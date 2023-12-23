@@ -3,7 +3,7 @@ This repo contains the starter files and instructions to create a 3D environment
 
 # Terminal Commands
 
-```npm install```
+First, run ```npm install``` terminal command in the cloned project's directory.
 
 ```npm i three```
 
