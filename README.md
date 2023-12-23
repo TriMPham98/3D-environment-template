@@ -7,7 +7,7 @@ First, run ```npm install``` terminal command in the cloned project's directory.
 
 Next, enter ```npm i three``` to download the Three.js library.
 
-```npm install gsap@3.5.1```
+To use dynamic camera movements, execute ```npm install gsap@3.5.1```
 
 ```npm run dev```
 
