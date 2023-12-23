@@ -9,6 +9,6 @@ Next, enter ```npm i three``` to download the Three.js library.
 
 To use dynamic camera movements, execute ```npm install gsap@3.5.1```
 
-```npm run dev```
+Finally, to preview the 3D environment, run ```npm run dev``` to host the project locally.
 
 # Initial Environment Demo
