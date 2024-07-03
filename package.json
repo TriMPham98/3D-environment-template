@@ -1,0 +1,24 @@
+{
+    "name": "3d-environment-template",
+    "version": "1.0.0",
+    "description": "A foundational Three.js setup using npm",
+    "main": "main.js",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "keywords": [
+        "three.js",
+        "3D",
+        "graphics"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "three": "^0.166.1"
+    },
+    "devDependencies": {
+        "vite": "^5.3.3"
+    }
+}
